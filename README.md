@@ -9,7 +9,7 @@ Mini benchmark to understand three MPI communication strategies:
    sends commands via a queue (similar to the paper's offload approach).
 
 The code uses a simple 1D stencil with halo exchange between neighbors.
-
+test
 ## Build
 
 ```bash
